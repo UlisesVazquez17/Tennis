@@ -1,0 +1,6 @@
+Recursos de uso libre (CC0, dominio público) usados en la prueba realista:
+
+- Texturas/Pasto_*: "Grass005" de ambientCG (https://ambientcg.com/a/Grass005) — CC0 1.0.
+- Texturas/Tierra_*: "Baseball Playground" de Poly Haven (https://polyhaven.com/a/baseball_playground) — CC0.
+- Cielo/Cielo_Kloofendal48d.hdr: "Kloofendal 48d Partly Cloudy (Pure Sky)" de Poly Haven
+  (https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky) — CC0.
